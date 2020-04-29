@@ -26,5 +26,4 @@ GUI File: "GUI_Final" python file.
 Image files associated: "best_parameters", "best_results", "boxplots_worst", "corr_worst", "countplot_target", "feature_importance1", "feature_selection", "Front", "histograms_worst" and "polar_worst". 
  
  **Presentation:**
-
-For your refrence, I have icluded a powerpoint file includimg the slides I presented in the Final Project presemtation, 
+For your refrence, I have icluded a powerpoint file named "DM Final Project Presentation_MMF_vFinal". These file includes slides 1 to 5 that I presented in the Final Project presemtation, slides 7 - 14 includimg scheenshots of the demo and slide 15 including the "Future work" that I voiced over at the end of the demo section of the Final Project presemtation.
