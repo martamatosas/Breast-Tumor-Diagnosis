@@ -19,7 +19,7 @@ Accompanying paper from the University of Wisconsin: "Nuclear Feature Extraction
     "DM Final Project_6_aaa": reads the clean dataframe (unpickle), includes subseting the feature space, standardization, fits the classifier with best hyper parameters as per output of program "DM Final Project_5". Output is ROC-AUC score, classification report and confusion matrix. As mentioned, aaa stands for the acronym of each classifier as follows: 'lr' = Logistisc Regression, 'xgb' = XGBoost, 'SVC' = Support Vector Machine, 'RF' = Random Forest, 'DT' = Decision Tree and 'KNN' = KNEarest Neighbors.
 
 
-**To run the Demo of the project, please locate in your working directory the "GUI_final" python file together with all 10 inages listed below under the Demo section.**
+**To run the Demo of the project, please locate in your working directory the "GUI_final" python file together with all 10 images listed below under the Demo section.**
 
 **Demo:**
 GUI File: "GUI_Final" python file.
