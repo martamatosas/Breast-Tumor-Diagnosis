@@ -25,5 +25,8 @@ Accompanying paper from the University of Wisconsin: "Nuclear Feature Extraction
 GUI File: "GUI_Final" python file.
 Image files associated: "best_parameters", "best_results", "boxplots_worst", "corr_worst", "countplot_target", "feature_importance1", "feature_selection", "Front", "histograms_worst" and "polar_worst". 
  
- **Presentation:**
-For your reference, I have included a powerpoint file named "DM Final Project Presentation_MMF_vFinal". This file includes slides 1 to 5 that I presented in the Final Project Presentation, slides 7 - 14 include screenshots of the demo and slide 15 includes the "Future work" that I voiced over at the end of the demo section of the Final Project Presentation.
+ **Final Project Report:**
+"DATS6103 _Group 2_Project Final Report.pdf"
+
+**Final Project Presentation:**
+"DM Final Project Presentation_MMF_vFinal".
