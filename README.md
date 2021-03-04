@@ -1,7 +1,7 @@
 # Breast Tumor Diagnosis
 Prediciton of breast tumor doagnosis.
 
-Feature selection was conducted using decision trees.
+Feature selection (5 out of 30) was conducted using decision trees.
 
 Hyper parameter tunning was performed on the following classifiers: logistic regression, decision tree, random forest, KNN, XGBoost and SVC,
 
