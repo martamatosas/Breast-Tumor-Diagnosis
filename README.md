@@ -1,15 +1,16 @@
-# Group-2
-Group 2 Data Mining Final Project repository.
+# Breast Tumor Diagnosis
+Prediciton of breast tumor doagnosis.
 Please read information and instructions regarding the files included in this repository.
 
-**To run the Data Mining project, please locate in your working directory the data.csv file together with all 11 files listed below as Data Mining project Python files.**
+**To run the project, please locate in your working directory the data.csv file together with all 11 files listed below as Data Mining project Python files.**
 
 Original data zip file: "beast-cancer-wisconsin-data" zip file, as downloaded from Kaggle, included only for reference.
 Dataset: "data" csv file
 Accompanying paper from the University of Wisconsin: "Nuclear Feature Extraction for Breast Tumor Diagnosis" pdf file
 
 **Data Mining project Python files:**
-    all named "DM Final Project_n_aaa" where n indicates the order in which they should be run
+
+All named "DM Final Project_n_aaa" where n indicates the order in which they should be run
     there are six "DM_final Project_6_aaa" files, where aaa indicates the acronym of the classifier. These final files can be run in any order.
     "DM Final Project_1" reads, inspects the dataset and cleans the dataset; output: a clean data frame (pickle command)
     "DM Final Project_2" reads the clean dataframe (unpickle), include all the Exploratory Data Analysis
@@ -22,10 +23,12 @@ Accompanying paper from the University of Wisconsin: "Nuclear Feature Extraction
 **To run the Demo of the project, please locate in your working directory the "GUI_final" python file together with all 10 images listed below under the Demo section.**
 
 **Demo:**
+
 GUI File: "GUI_Final" python file.
+
 Image files associated: "best_parameters", "best_results", "boxplots_worst", "corr_worst", "countplot_target", "feature_importance1", "feature_selection", "Front", "histograms_worst" and "polar_worst". 
  
- **Final Project Report:**
+**Final Project Report:**
 "DATS6103 _Group 2_Project Final Report.pdf"
 
 **Final Project Presentation:**
