@@ -7,6 +7,7 @@ Feature selection (5 out of 30) was conducted using decision trees.
 
 Hyper parameter tunning was performed on the following classifiers: logistic regression, decision tree, random forest, KNN, XGBoost and SVC.
 
+**Key results:**
 Best performing classifier is logistc regression: achieved accuracy of 98.24%, and precision and recall of 100% and 96%, respectively, for malignant diagnosis. 
 
 **Information and instructions regarding the files included in this repository.**
