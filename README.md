@@ -38,4 +38,3 @@ Files "DM Final Project_n", where n ranges from 1 to 5 should be run un order:
 Files named "DM Final Project_6_aaa" where where aaa indicates the acronym of the classifier can be run in any order. "aaa" acronyms: 'lr' = Logistisc Regression, 'xgb' = XGBoost, 'SVC' = Support Vector Machine, 'RF' = Random Forest, 'DT' = Decision Tree and 'KNN' = K=Nearest Neighbors.
 
 "DM Final Project_6_aaa": reads the clean dataframe (unpickle), includes subseting the feature space, standardization, fits the classifier with best hyper parameters as per output of program "DM Final Project_5". Output is ROC-AUC score, classification report and confusion matrix.
-
