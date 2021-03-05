@@ -9,15 +9,15 @@ Hyper parameter tunning was performed on the following classifiers: logistic reg
 
 Best performing classifier is logistc regression: achieved accuracy of 98.24%, and precision and recall of 100% and 96%, respectively, for malignant diagnosis. 
 
-Information and instructions regarding the files included in this repository.
+**Information and instructions regarding the files included in this repository.**
 
-**To run the project, please locate in your working directory the data.csv file together with all 11 files listed below as Data Mining project Python files.**
+To run the project, please locate in your working directory the data.csv file together with all 11 files listed below as Data Mining project Python files.
 
 Original data zip file: "beast-cancer-wisconsin-data" zip file, as downloaded from Kaggle, included only for reference.
 
-Dataset: "data" csv file
+Dataset: "data" csv file.
 
-Accompanying paper from the University of Wisconsin: "Nuclear Feature Extraction for Breast Tumor Diagnosis" pdf file
+Accompanying paper from the University of Wisconsin: "Nuclear Feature Extraction for Breast Tumor Diagnosis" pdf file.
 
 **Python files:**
 
