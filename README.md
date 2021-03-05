@@ -35,14 +35,3 @@ Files named "DM Final Project_6_aaa" where where aaa indicates the acronym of th
 
 "DM Final Project_6_aaa": reads the clean dataframe (unpickle), includes subseting the feature space, standardization, fits the classifier with best hyper parameters as per output of program "DM Final Project_5". Output is ROC-AUC score, classification report and confusion matrix.
 
-**To run the Demo of the project, please locate in your working directory the "GUI_final" python file together with all 10 images listed below under the Demo section.**Acronym **Demo:**
-
-GUI File: "GUI_Final" python file.
-
-Image files associated: "best_parameters", "best_results", "boxplots_worst", "corr_worst", "countplot_target", "feature_importance1", "feature_selection", "Front", "histograms_worst" and "polar_worst". 
- 
-**Final Project Report:**
-"DATS6103 _Group 2_Project Final Report.pdf"
-
-**Final Project Presentation:**
-"DM Final Project Presentation_MMF_vFinal".
